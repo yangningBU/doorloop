@@ -1,4 +1,4 @@
-import KeyTracker from './KeyTracker'
+import KeyTracker from './features/KeyTracker'
 import './App.css'
 
 function App() {
